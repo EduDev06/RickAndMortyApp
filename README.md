@@ -2,9 +2,8 @@
 Rick and Morty App is an application which is developed with Clean Architecture, Retrofit for api consumption, MVVM Pattern, Jetpack Compose, Hilt and other
 useful libraries like Coil and more.
 
-[![Pel-culas-y-TV-13-05-2022-18-15-25.png](https://i.postimg.cc/j2KpRy6y/Pel-culas-y-TV-13-05-2022-18-15-25.png)](https://postimg.cc/HcZZ2chL)
+[![pixlr-bg-result.png](https://i.postimg.cc/9fLRdB0Q/pixlr-bg-result.png)](https://postimg.cc/HJ7kHXbq)
 
-[![Pel-culas-y-TV-15-05-2022-22-08-20.png](https://i.postimg.cc/d3Bz3Dnp/Pel-culas-y-TV-15-05-2022-22-08-20.png)](https://postimg.cc/fSVHgzGf)
-
+[![Pel-culas-y-TV-15-05-2022-22-08-20-removebg-preview.png](https://i.postimg.cc/Sx7zs4p8/Pel-culas-y-TV-15-05-2022-22-08-20-removebg-preview.png)](https://postimg.cc/21y5cPy8)
 
 
